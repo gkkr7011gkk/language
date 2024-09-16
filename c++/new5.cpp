@@ -42,4 +42,14 @@ int main(){
     i++;
     return 0;
 
+/* 
+     while(i<=40)
+     {
+        cout<<i<<endl;
+     }
+
+    
+    i++;
+    */
+
 }

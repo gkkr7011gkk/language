@@ -10,6 +10,8 @@ git add hello-word.cpp :: add this file to staging area (preferred)
 git add . :: add all file in folder to staging arena
 git commit -m "commit-message, ex changed logic"
 
+git push
+
 
 
 __
