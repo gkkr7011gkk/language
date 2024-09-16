@@ -1,8 +1,8 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
+int main() {
     /*Loops in C++:
     There is three types of loops in C++:
     1. For loop
@@ -36,20 +36,18 @@ int main(){
     //     }
 
     // priting 1 to 40 using while loop
-    int i=1;
-    while(i<=40)
-    cout<<i<<endl;
+    int i = 1;
+    while (i <= 40) cout << i << endl;
     i++;
     return 0;
 
-/* 
-     while(i<=40)
-     {
-        cout<<i<<endl;
-     }
+    /*
+         while(i<=40)
+         {
+            cout<<i<<endl;
+         }
 
-    
-    i++;
-    */
 
+        i++;
+        */
 }
