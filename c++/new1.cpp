@@ -7,6 +7,7 @@ int main(){
     cout<< "Enter the value of num1:\n"/*<< is called Insertion opertaor*/;
    cin>>num2; /*'>>' is called Extraction operator*/
    cout<<"The sum is"<< num1 + num2;
+   
 
     return 0;
 }
